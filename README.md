@@ -8,3 +8,6 @@ A News Reader android application showcasing various tools and libraries like Re
 - **ButterKnife** - Data Binding
 - **Dagger 2** - Dependency Injection
 
+# Screenshots 
+
+![newsapp](https://user-images.githubusercontent.com/20114242/43383268-9200122e-93eb-11e8-8219-7ae0ee256ab6.png)
